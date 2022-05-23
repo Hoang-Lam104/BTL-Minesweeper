@@ -20,9 +20,10 @@
 
 2) Mô tả chung 
 
- Game Minesweeper hay Dò mìn là trò chơi giải đố 1 người chơi
- Game có map 10x10 ô và ẩn dưới các quả mìn được cài sẵn dưới các ô
- Nhiệm vụ của người chơi là mở hết tất cả các ô mà không bị bùm
+ - Game Minesweeper hay Dò mìn là trò chơi giải đố 1 người chơi
+ - Game có map 10x10 ô và ẩn dưới các quả mìn được cài sẵn dưới các ô
+ - Các ô khi mở sẽ hiển thị 1 số ứng với số mìn xung quanh ô đó
+ - Nhiệm vụ của người chơi là mở hết tất cả các ô mà không bị bùm
  
 3) Mô tả các chức năng
 
