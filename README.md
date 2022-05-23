@@ -21,3 +21,11 @@ Link youtube: *Bổ sung sau
 
   * Map là 2 mảng 2 chiều 
   * Đồ họa sfml dùng để xuất hình ảnh  
+
+5 Đánh giá
+
+  * Game còn chưa được thực sự hoàn thành với 1 số chức năng còn thiếu 
+  * Hướng phát triển: 
+   - Thêm nút chơi lại
+   - Thêm tính thời gian
+   - Thêm các map khác
