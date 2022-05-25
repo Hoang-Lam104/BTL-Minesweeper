@@ -31,7 +31,7 @@
   * Mở ô là hiện thị các số
   * Đặt cờ dò mìn
 
-Link youtube: *Bổ sung sau
+Link youtube: https://youtu.be/Z89yTEV6Uaw
 
 4) Kỹ thuật lập trình
 
