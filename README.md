@@ -37,6 +37,7 @@ Link youtube: https://youtu.be/Z89yTEV6Uaw
 
   * Map là 2 mảng 2 chiều 
   * Đồ họa sfml dùng để xuất hình ảnh  
+  * Vector 2 chiều
 
 5) Đánh giá
 
