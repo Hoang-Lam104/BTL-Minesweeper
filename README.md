@@ -38,16 +38,15 @@ Link youtube: https://youtu.be/Z89yTEV6Uaw
 	* Mở tất cả các ô có number = 0 xung quang
 	
 4) Kỹ thuật lập trình
-
-  * Mảng 2 chiều 
-  * Đồ họa sfml
-  * Vector 2 chiều
-  * Đệ quy 
+	* Mảng 2 chiều 
+ 	* Đồ họa sfml
+  	* Vector 2 chiều
+  	* Đệ quy 
 
 5) Đánh giá
 
-  * Game còn chưa được thực sự hoàn thành với 1 số chức năng còn thiếu 
-  * Hướng phát triển: 
-   	- Thêm nút chơi lại
-   	- Thêm tính thời gian và lưu trữ kết quả
-   	- Thêm các map khác
+  	* Game còn chưa được thực sự hoàn thành với 1 số chức năng còn thiếu 
+  	* Hướng phát triển: 
+   		- Thêm nút chơi lại
+   		- Thêm tính thời gian và lưu trữ kết quả
+   		- Thêm các map khác
